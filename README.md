@@ -1,6 +1,6 @@
 # Color Scheme - Mariana Plus
 
-This is a Sublime Text (and Merge) color scheme using the [Monokai color palette](https://github.com/n0rmand0/Mariana-Pro-color-theme).
+This is a Sublime Text (and Merge) color scheme using the [Mariana color palette](https://github.com/n0rmand0/Mariana-Pro-color-theme).
 
 ## Install
 
