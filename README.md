@@ -14,8 +14,6 @@ For Sublime Text, edit your `Preferences.sublime-settings` file to use the Monok
     "color_scheme": "Packages/Mariana Color Scheme/Mariana Plus (Cool).sublime-color-scheme",
 ```
 
-For Sublime Merge, once installed, it is recommended to install the Sublime Merge theme and follow [related theme](https://github.com/bitsper2nd/merge-mariana-theme) instructions.
-
 ## Screenshots
 
 Mariana Plus (Cool)
@@ -29,3 +27,7 @@ Mariana Plus (Neutral)
 Mariana Plus (Warm)
 
 ![warm](screenshots/warm.png "Mariana Plus (Warm)")
+
+## Extra
+
+Here is the repo of the [theme](https://github.com/bitsper2nd/merge-mariana-theme) for Sublime Merge. Also checkout my [other color scheme](https://github.com/bitsper2nd/sublime-monokai-scheme) based on the Monokai color palette.
