@@ -234,7 +234,7 @@
     {
       "name": "Class name",
       "scope": "entity.name.class",
-      "foreground": "var(blue)"
+      "foreground": "var(orange)"
     },
     {
       "name": "Constant name",
@@ -250,7 +250,7 @@
       "name": "Inherited class",
       "scope": "entity.other.inherited-class",
       "font_style": "italic",
-      "foreground": "var(blue)"
+      "foreground": "var(cyan)"
     },
     {
       "name": "Function name",
@@ -875,7 +875,7 @@
     {
       "name": "Function and method names should be scoped using the following, but only when they are being invoked. When defined, they should use entity.name.function.",
       "scope": "variable.function",
-      "foreground": "var(green)"
+      "foreground": "var(blue)"
     },
     {
       "name": "Substitution (restructured text)",
