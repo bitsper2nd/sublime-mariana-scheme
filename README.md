@@ -18,15 +18,15 @@ For Sublime Text, edit your `Preferences.sublime-settings` file to use the Monok
 
 Mariana Plus (Cool)
 
-![cool](screenshots/cool.png "Mariana Plus (Cool)")
+![cool](https://github.com/user-attachments/assets/37e87a68-55b2-41a5-bcc2-0f80e2e03fca "Mariana Plus (Cool)")
 
 Mariana Plus (Neutral)
 
-![neutral](screenshots/neutral.png "Mariana Plus (Neutral)")
+![neutral](https://github.com/user-attachments/assets/65a09379-12ed-4455-86da-b1b5555bc744 "Mariana Plus (Neutral)")
 
 Mariana Plus (Warm)
 
-![warm](screenshots/warm.png "Mariana Plus (Warm)")
+![warm](https://github.com/user-attachments/assets/c46c3c3f-f85a-4054-af64-ef1ae34cb321 "Mariana Plus (Warm)")
 
 ## Extra
 
