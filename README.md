@@ -1,4 +1,4 @@
-# Color Scheme - Mariana Plus
+# Color Scheme - Mariana Max
 
 This is a Sublime Text (and Merge) color scheme using the [Mariana color palette](https://github.com/n0rmand0/Mariana-Pro-color-theme).
 
@@ -11,22 +11,22 @@ Sublime Text as Sublime Merge will find the color schemes in Sublime Text.
 For Sublime Text, edit your `Preferences.sublime-settings` file to use the Monokai theme:
 
 ```
-    "color_scheme": "Packages/Mariana Color Scheme/Mariana Plus (Cool).sublime-color-scheme",
+    "color_scheme": "Packages/Mariana Color Scheme/Mariana Max (Blue).sublime-color-scheme",
 ```
 
 ## Screenshots
 
-Mariana Plus (Cool)
+Mariana Max (Blue)
 
-![cool](https://github.com/user-attachments/assets/37e87a68-55b2-41a5-bcc2-0f80e2e03fca "Mariana Plus (Cool)")
+![cool](https://github.com/user-attachments/assets/37e87a68-55b2-41a5-bcc2-0f80e2e03fca "Mariana Max (Blue)")
 
-Mariana Plus (Neutral)
+Mariana Max (Grey)
 
-![neutral](https://github.com/user-attachments/assets/65a09379-12ed-4455-86da-b1b5555bc744 "Mariana Plus (Neutral)")
+![neutral](https://github.com/user-attachments/assets/65a09379-12ed-4455-86da-b1b5555bc744 "Mariana Max (Grey)")
 
-Mariana Plus (Warm)
+Mariana Max (Brown)
 
-![warm](https://github.com/user-attachments/assets/c46c3c3f-f85a-4054-af64-ef1ae34cb321 "Mariana Plus (Warm)")
+![warm](https://github.com/user-attachments/assets/c46c3c3f-f85a-4054-af64-ef1ae34cb321 "Mariana Max (Brown)")
 
 ## Extra
 
